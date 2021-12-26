@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.suggest.preview": true
+}
